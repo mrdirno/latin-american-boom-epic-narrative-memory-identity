@@ -1,0 +1,160 @@
+{
+  "book_id": "latin_american_boom_epic_narrative_memory_identity",
+  "title": "The Desert That Remembers",
+  "tagline": "A man returns to the Atacama to bury his brother and unearth the memories that bind a family, a nation, and a continent.",
+  "target_words": 70000,
+  "actual_words": 73230,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Weight of Familial Silence",
+    "Memory as a Physical Landscape",
+    "The Search for Unwritten Histories",
+    "The Haunting of Unfinished Business"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The 5:17 Lament",
+      "words": 3050
+    },
+    {
+      "ch": 2,
+      "title": "The Widow's Ledger",
+      "words": 2950
+    },
+    {
+      "ch": 3,
+      "title": "The First Crack",
+      "words": 3100
+    },
+    {
+      "ch": 4,
+      "title": "The Santiago Apartment",
+      "words": 3200
+    },
+    {
+      "ch": 5,
+      "title": "The Student Protests of '68",
+      "words": 3400
+    },
+    {
+      "ch": 6,
+      "title": "The Letter That Never Came",
+      "words": 2900
+    },
+    {
+      "ch": 7,
+      "title": "The Dentist's Testimony",
+      "words": 2800
+    },
+    {
+      "ch": 8,
+      "title": "The Mine at Pampa Negra",
+      "words": 3600
+    },
+    {
+      "ch": 9,
+      "title": "Our Father's Watch",
+      "words": 3100
+    },
+    {
+      "ch": 10,
+      "title": "The Exile's Return",
+      "words": 3300
+    },
+    {
+      "ch": 11,
+      "title": "The Burning of the Archives",
+      "words": 3500
+    },
+    {
+      "ch": 12,
+      "title": "The Woman from the Altiplano",
+      "words": 2950
+    },
+    {
+      "ch": 13,
+      "title": "The Ghost of the Freight Train",
+      "words": 3200
+    },
+    {
+      "ch": 14,
+      "title": "The Poet's Contradiction",
+      "words": 2800
+    },
+    {
+      "ch": 15,
+      "title": "The Sound of a Stopped Clock",
+      "words": 3100
+    },
+    {
+      "ch": 16,
+      "title": "The General's Secret",
+      "words": 3700
+    },
+    {
+      "ch": 17,
+      "title": "The Bones of Santa Irene",
+      "words": 3400
+    },
+    {
+      "ch": 18,
+      "title": "The Camanchaca Descends",
+      "words": 2900
+    },
+    {
+      "ch": 19,
+      "title": "The Confession in the Bar",
+      "words": 3300
+    },
+    {
+      "ch": 20,
+      "title": "The Map of Unsaid Things",
+      "words": 3100
+    },
+    {
+      "ch": 21,
+      "title": "The Burial at Dusk",
+      "words": 2800
+    },
+    {
+      "ch": 22,
+      "title": "The Contents of the Satchel",
+      "words": 3500
+    },
+    {
+      "ch": 23,
+      "title": "The Truth in Silica Dust",
+      "words": 3200
+    },
+    {
+      "ch": 24,
+      "title": "The Train's New Cry",
+      "words": 3050
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write the 'lost letter' Tomás waited 12 years for. Who was it from? What did it say, and why did it never arrive?",
+      "Create a monologue from the perspective of the Widow Almeyda, detailing the town's hidden history as she's witnessed it from behind her bar.",
+      "Script the confrontation between a young Sebastián and Tomás during the political upheavals of their past. What was the 'unsaid thing' that drove them apart?",
+      "Describe a memory from the childhood of Sebastián and Tomás in Santa Irene, focusing on a sensory detail (a smell, a sound) that haunts the present."
+    ],
+    "technical": [
+      "Build an interactive map of Santa Irene and the Atacama, where locations are 'unlocked' by fragments of memory text, visually representing the novel's non-linear narrative.",
+      "Create a 'Memory Engine' generative text tool that takes a core object (e.g., a watch, a train whistle, a rusted sign) and produces layered, contradictory narrative fragments in the style of the Boom."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Gabriel García Márquez",
+      "Roberto Bolaño",
+      "W.G. Sebald",
+      "Juan Rulfo"
+    ]
+  },
+  "cover_prompt": "A solitary man in a worn suit stands over a shallow grave in the vast, cracked salt flats of the Atacama Desert, his shadow a long, fractured line towards the horizon, holding a small, weathered box of personal effects under a sky heavy with unspoken history, in the atmospheric style of a Latin American magical realist painter like Leonora Carrington or Remedios Varo, blending surreal symbolism with hyperrealistic detail, book cover framing, centered composition with a low, dramatic angle looking up at the figure against the immense sky, cinematic chiaroscuro lighting with a stark contrast between the deep, cool shadows of the salt polygons and the warm, golden-hour glow of the setting sun casting long, haunting alpenglow on distant volcanoes, color palette of desiccated ochres, bleached whites, deep volcanic blacks, and ethereal twilight purples, masterpiece, best quality, ultra detailed, intricate details of cracked earth and worn fabric, professional composition, sharp focus, 8k resolution, flux dev."
+}
