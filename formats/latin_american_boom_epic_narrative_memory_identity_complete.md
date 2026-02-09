@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **Chapter 1**
 
 The train was a dying animal, and it screamed its pain into the salt-white dawn. It was a sound that began as a low, intestinal groan deep in the belly of the engine, then climbed, metallic and desperate, until it tore the fabric of the desert silence. Inside the third-class carriage, the scream was a physical thing. It vibrated in the brass spittoon bolted to the floor, it rattled the teeth of the sleeping campesino with his straw hat over his face, and it reached into the pocket of frayed wool where Sebastián Cipriano kept his father’s watch. He didn’t need to pull it out to know the time. The train’s cry was the clock of this place, the 5:17 a.m. lament of the *Expreso del Desierto* as it approached the station of Santa Irene, a town that was less a destination and more a hesitation in the endless, shimmering plain.
@@ -87,6 +89,8 @@ And at the very bottom, wrapped in a piece of faded blue silk, was a key. Not a 
 Sebastián held it in his palm. It was the weight of a decision. The train’s scream echoed in his memory, but here, in this silent room, it was replaced by a deeper, more profound quiet. The quiet of a question posed by a dead man. He looked at the photograph again, at his own boyish, trusting face. He had come to Santa Irene to bury his brother. But Tomás, it seemed, had other plans. He had not left a body to bury. He had left a trail.
 
 The *camanchaca* outside began to burn away, and a hard, white light pierced the room’s single window, falling directly on the key in his hand. It did not gleam. It absorbed the light, a sliver of absolute dark. Sebastián closed his fist around it. The desert outside was waiting. And somewhere in its vast, amnesiac heart, a lock was waiting for this key.
+
+# Chapter 2
 
 ## **Chapter 2**
 
@@ -249,6 +253,8 @@ Sebastián took down the map, folding it carefully. He gathered a few of the mos
 As he climbed back out the window, the full, brutal heat of the day hit him. The ruins of Santa Laura lay baking, a vast, intricate machine for producing nothing but shade. He looked back at the administrator’s house. For a moment, in the shimmering air, he thought he saw a figure on the veranda—a tall man with a neat mustache, looking north, hand shielding his eyes. Then the heat haze shifted, and there was only repaired wood and empty space.
 
 He had come to bury his brother. But Tomás had buried a trail. And a key. And now, the desert was no longer just a place. It was an accusation. It was a question written in salt. And Sebastián, against all sense, against the widow’s wisdom and the caretaker’s warning, knew he would have to walk into its heart to find the answer. The key was already turning in a lock he could not see, and the first tumbler had fallen with a sound like a distant train screaming in the night.
+
+# Chapter 3
 
 ## **Chapter 3**
 
